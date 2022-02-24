@@ -93,7 +93,22 @@
         },
         {
           "name-attribute":"content",
-          "value-attribute":"0HDWMfM9C7GceAnVH232hNXyvrq-lE9mPS4C7tBJc0M"
+          "value-attribute":"KxzTll8pentDnivSKFeVrC-jukJhoGGS-Tf0vyW6oNI"
+        }
+      ],
+      "data-innerHTML":"",
+      "position":"start"
+    },
+    {
+      "name-element":"meta",
+      "data-attribute":[
+        {
+          "name-attribute":"name",
+          "value-attribute":"msvalidate.01"
+        },
+        {
+          "name-attribute":"content",
+          "value-attribute":"8220651FD31D6D5AF0245DD0810FACC0"
         }
       ],
       "data-innerHTML":"",
